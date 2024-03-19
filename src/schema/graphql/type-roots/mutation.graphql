@@ -1,0 +1,4 @@
+type Mutation {
+    add(user: UserInput!): Boolean
+    update(user: UserInput!): Boolean
+}

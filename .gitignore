@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Archivos de respaldo generados por editores de texto
+*.bak
+*.swp
+
+# Archivos de registro
+logs/
+*.log
+
+# Archivos de construcción
+build/
+dist/
+*.bundle.js

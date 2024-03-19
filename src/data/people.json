@@ -1,0 +1,63 @@
+[
+    {
+        "id":"1",
+        "name": "Kyle Banker",
+        "email": "mugan@gmail.com",
+        "website": "mugan.com.pe",
+        "twitter": "mugan23",
+        "github": "mugan23",
+        "books": ["1","2","6"]
+    },
+    {
+        "id":"2",
+        "name": "Sherwin Marquez",
+        "email": "Sherwin@gmail.com",
+        "website": "Sherwin.com.pe",
+        "github": "Sherwin423",
+        "books": ["2","6"]
+    },
+    {
+        "id":"3",
+        "name": "Brian Orella",
+        "email": "Brian@gmail.com",
+        "website": "Brian.com.pe",
+        "github": "Brian543",
+        "books": ["4","5"]
+    },
+    {
+        "id":"4",
+        "name": "Brandom Quispe",
+        "email": "Brandom@gmail.com",
+        "website": "Brandom.com.pe",
+        "github": "Brandom53",
+        "twitter": "Brandom54",
+        "books": ["1","3","7"]
+    },
+    {
+        "id":"5",
+        "name": "Hisoka Ambo",
+        "email": "Hisoka@gmail.com",
+        "website": "Hisoka.com.pe",
+        "github": "Hisoka534",
+        "twitter": "Hisoka645",
+        "books": ["2","4"]
+    },
+    {
+        "id":"6",
+        "name": "Korns Michael",
+        "email": "Korns@gmail.com",
+        "website": "Korns.com.pe",
+        "github": "Korns534",
+        "twitter": "Korns3453",
+        "books": ["1","3","5"]
+    },
+    {
+        "id":"7",
+        "name": "Susuki GT",
+        "email": "Susuki@gmail.com",
+        "website": "Susuki.com.pe",
+        "github": "Susuki342",
+        "twitter": "Susuki543",
+        "books": ["5","6"]
+    }
+]
